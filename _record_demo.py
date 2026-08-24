@@ -7,7 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "demo"
-URL = "http://127.0.0.1:8766/"
+URL = "http://127.0.0.1:8767/"
 
 
 async def main() -> None:
